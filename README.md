@@ -1,3 +1,6 @@
+# Hacktoberfest 2021
+We are open for Hacktoberfest 2021, please feel free to contribute into this repository.
+
 # Microfrontend Static Content
 The Microfrontend for serving static content
 

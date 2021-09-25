@@ -1,9 +1,9 @@
 {
-  "name": "microfrontend",
+  "name": "static",
   "version": "1.0.0",
-  "description": "Static content for a micro frontends demo",
-  "repository": "git@github.com:micro-frontends-demo/content",
-  "author": "Cam Jackson <camjackson89@gmail.com>",
+  "description": "Microfrontend Static",
+  "repository": "https://github.com/MicrofrontendGenerator/static.git",
+  "author": "Retzd",
   "license": "MIT",
   "scripts": {
     "start": "serve --port 5000 --cors content"
